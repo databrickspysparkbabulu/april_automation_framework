@@ -1,0 +1,8 @@
+
+{
+  "snowflake_db": {
+    "driver": "net.snowflake.client.jdbc.SnowflakeDriver",
+    "jdbc_url" : "jdbc:snowflake://fsvwopr-mm93561.snowflakecomputing.com/?user=BBHOI9427&password=Maabapa@7&warehouse=COMPUTE_WH&db=SAMPLEDB&schema=CONTACTINFOSCH"
+
+  }
+}
